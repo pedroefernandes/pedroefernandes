@@ -1,4 +1,4 @@
-# Hey, I'm Pedro Ernesto! 👋
+# Hi, I'm Pedro Ernesto. 👋
 
 I'm a Software Developer and Computer Science student passionate about coding and always looking for new challenges. 
 
